@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+
+}
+h1{
+    text-align: center;
+    margin: 2rem 2rem;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+}
+.card{
+background-color: white;
+text-align: center;
+width: 14rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0.50rem 0.50rem;
+}
+
+.btn-color{
+    color: white;
+    background-color: rgb(166, 71, 254);
+}
+.btn-color:hover{
+    color: white;
+    background-color: rgb(83, 34, 128);
+}
+.stock-disponible{
+    background-color: rgb(0, 0, 0);
+    row-gap: 1rem;
+    padding: 1rem 0rem;
+    padding-left: 3rem;
+}
+.info-general{
+    margin: 2rem 0.50rem;
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+    text-align: center;
+}

@@ -1,0 +1,10 @@
+[
+    {"id":1, "modelo":"Dunk Custom", "precio":500, "img":"img/shoes-one.jpg", "cantidad":1},
+    {"id":2, "modelo":"Jordan 94", "precio":200, "img":"img/shoes-two.jpg", "cantidad":1},
+    {"id":3, "modelo":"Turro Nike", "precio":180, "img":"img/shoes-three.jpg", "cantidad":1},
+    {"id":4, "modelo":"Air", "precio":230, "img":"img/shoes-four.jpg", "cantidad":1},
+    {"id":5, "modelo":"Bad Bunny", "precio":150, "img":"img/shoes-five.jpg", "cantidad":1},
+    {"id":6, "modelo":"Rick Owens", "precio":800,"img":"img/shoes-six.jpeg", "cantidad":1},
+    {"id":7, "modelo":"Vans", "precio":400,"img":"img/shoes-seven.jpeg", "cantidad":1},
+    {"id":8, "modelo":"New Balance", "precio":640,"img":"img/shoes-eight.jpeg", "cantidad":1}
+]
